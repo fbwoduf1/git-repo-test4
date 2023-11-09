@@ -20,5 +20,5 @@
 
 ```python
 def hello_world():
-    print("Hello, Markdown!")
+    print("Hello Markdown!")
 ```
